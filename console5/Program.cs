@@ -12,6 +12,7 @@ namespace console5
         {
             //new project added
             //added from local master
+            var a = 1;
             var b = 2;
         }
     }
