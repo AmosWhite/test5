@@ -11,7 +11,9 @@ namespace console5
         static void Main(string[] args)
         {
             //new project added
+            //added from local master
             var a = 1;
+            var b = 2;
         }
     }
 }
